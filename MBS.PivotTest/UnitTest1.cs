@@ -73,7 +73,7 @@ namespace MBS.PivotTest
                 //return e.Row+" : "+ e.Value.ToString("##.#");
             };
 
-             // comment
+             
             var x = dt.Generate();
 
             var y = x;
